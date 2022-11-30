@@ -1,4 +1,4 @@
-# NA-Music-Chart
+# North American Music Chart
 ## Christian Perrine
 
 ### Description
