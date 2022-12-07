@@ -26,4 +26,9 @@ for row in data:
 ### Results
 #### From this database one could query a variety of information. One thing that could be most interesting to compare is the differences in streaming preferences within each country in North America. For example you can query the most streamed artist over the time frame, a chart is included below as a reference.
 ![image](https://user-images.githubusercontent.com/95774587/206231561-55f50d09-15c9-4c49-9085-305c4ae81599.png)
+#### Another interesting result was the ability to compare the streaming numbers for certain years based off the different countries. The differences in overall number of streams and the different artists that were atop each country was very interesting, especially when comparing the US to Canada since they speak the same language and have very similar pop culture tastes. Below is the most streamed artists by country, note that the United States is listed in billions while the others are hundreds of millions.
+![image](https://user-images.githubusercontent.com/95774587/206238314-73798a86-8fef-4413-9985-565cff3fa39a.png)
+![image](https://user-images.githubusercontent.com/95774587/206238419-294ab78f-87f0-4fa2-b495-09593783647c.png)
+#### Something interesting to note is that Juice WRLD passed away in the end of 2019, so you can see a lot of people tend to listen to someones music who recently passed, and on top of that his record label released an album that he had been working on, so you can see how different events regarding artists could impact their overall streaming numbers within a single year.
+
 
