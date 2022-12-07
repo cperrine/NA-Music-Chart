@@ -24,4 +24,6 @@ for row in data:
     cur.execute(sql,tokens)
 *The country value is changed with each CSV
 ### Results
-#### From this database one could query a variety of information. One thing that could be most interesting to compare is the differences in streaming preferences within each country in North America. 
+#### From this database one could query a variety of information. One thing that could be most interesting to compare is the differences in streaming preferences within each country in North America. For example you can query the most streamed artist over the time frame, a chart is included below as a reference.
+![image](https://user-images.githubusercontent.com/95774587/206231561-55f50d09-15c9-4c49-9085-305c4ae81599.png)
+
